@@ -21,6 +21,13 @@
 - Blynk uygulama bağlantısı
 - Wifi üzerinden yem verme ve zaman ayarı yapma
 - Yem verme bildirimi
+- 
+### Bağlantı
+![cat-dog-feeder](https://www.oguzhanavci.com/upload/feeder-1.jpg?raw=true)
+![cat-dog-feeder](https://www.oguzhanavci.com/upload/feeder-2.jpg?raw=true)
+![cat-dog-feeder](https://www.oguzhanavci.com/upload/feeder-3.jpg?raw=true)
+![cat-dog-feeder](https://www.oguzhanavci.com/upload/feeder-4.jpg?raw=true)
+![cat-dog-feeder](https://www.oguzhanavci.com/upload/feeder-5.jpg?raw=true)
 
 ### Uyarı!
 - Hobi projesidir. Hatasız çalışma garantisi yoktur. Lütfen evcil hayvanınızı bu tarz projelere güvenerek yalnız bırakmayın.
